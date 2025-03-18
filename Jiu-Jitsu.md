@@ -65,14 +65,14 @@ Series de movimientos preestablecidos para mejorar precisión y estrategia.
 ✔ **Kime no Kata** – Formas de defensa personal.  
 ✔ **Juno Kata** – Formas de suavidad y fluidez.
 
-### **🌟 [[atemi]] (当て身) – Golpes Estratégicos**
+### **🌟 [[atemi waza]] (当て身) – Golpes Estratégicos**
 
 Comprende golpes a puntos vulnerables para desequilibrar o incapacitar al oponente.  
 ✔ **Atemi Waza** – Golpeo con manos, codos, rodillas y pies.  
 ✔ **Kyusho Waza** – Ataques a puntos de presión y zonas sensibles.  
 ✔ **Geri Waza** – Patadas para crear distancia o desestabilizar.
 
-### **🌍 [[seishin]] (精神) – Filosofía y Espíritu**
+### **🌍 [[kihon]] (精神) – Filosofía y Espíritu**
 
 Desarrolla la mentalidad y disciplina en la práctica del Jiu-Jitsu.  
 ✔ **Autocontrol** – Gestón de la agresión y el miedo.  
@@ -80,7 +80,7 @@ Desarrolla la mentalidad y disciplina en la práctica del Jiu-Jitsu.
 ✔ **Estrategia y paciencia** – Aplicación inteligente de las técnicas.  
 ✔ **Bushidō** – Principios de honor y lealtad heredados de los samuráis.
 
-### **🛡️ [[bōgyo]](防御) – Bloqueos y Defensas**
+### **🛡️ [[uke waza]](防御) – Bloqueos y Defensas**
 
 Bogyo incluye todas las técnicas de **bloqueo, esquiva y control** para evitar ataques directos. 
 ✔ **Tai Sabaki** – Movimientos de desplazamiento para evadir ataques. 

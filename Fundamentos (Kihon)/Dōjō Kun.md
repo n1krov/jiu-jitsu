@@ -23,4 +23,4 @@
 
 ☯ **Budo no michi – El camino del guerrero** ☯
 
-[[seishin]]
+[[kihon]]

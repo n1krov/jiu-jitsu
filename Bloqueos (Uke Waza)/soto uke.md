@@ -5,3 +5,5 @@
   2. Levanta el brazo con el codo flexionado.
   3. Mueve el brazo desde afuera hacia adentro.
   4. Prepara un [[突き (Tsuki) - Golpe directo]].
+
+#blanco #bogyo 

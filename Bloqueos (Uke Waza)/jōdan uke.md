@@ -6,3 +6,5 @@
   2. Levanta el brazo por encima de la cabeza.
   3. Bloquea el golpe con el antebrazo.
   4. Prepara un [[突き (Tsuki) - Golpe directo]].
+
+#blanco #bogyo 
