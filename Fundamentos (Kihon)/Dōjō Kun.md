@@ -5,12 +5,14 @@
 
 ### 📜 Principios del Guerrero  
 
-1️⃣ **Amar a Dios sobre todas las cosas.**  
+1️⃣ **Amar a Dios por sobre todas las cosas.**  
 2️⃣ **Ser cortés y compasivo con todo ser.**  
-3️⃣ **Mantenerse leal con quien nos rodea.**  
-4️⃣ **El honor como máxima virtud.**  
+Vivir con sincera honestidad.
 5️⃣ **Ejercer la justicia con rectitud.**  
 6️⃣ **Inspirar valor heroico.**  
+4️⃣ **Mantenerse leal con quien nos rodea.**
+3️⃣ **El honor como máxima virtud.**   
+
 7️⃣ **La paciencia y la humildad como fortalezas del espíritu.**  
 8️⃣ **Nunca utilizar el arte para el mal.**  
 9️⃣ **Entrenar con disciplina y constancia.**  

@@ -31,7 +31,3 @@
 - #rodilla
 - #cadera
 - #hombro
-#### **4. Dificultad (obligatorio)**
-- #facil
-- #medio
-- #dificil
