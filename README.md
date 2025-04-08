@@ -8,15 +8,33 @@ Bienvenido a mi repositorio **Jiu-Jitsu Mental Model**. Este proyecto es una col
 
 El repositorio está organizado en carpetas y notas que siguen una estructura clara y consistente. Cada nota sigue un formato específico para garantizar que la información sea fácil de entender y acceder.
 
-### **Carpetas Principales**
-1. **Espiritual (Seishin)**: Notas sobre la mentalidad, filosofía y aspectos espirituales del jiu-jitsu.
-2. **Defensas (Bōgyo)**: Técnicas de defensa, escapes y contras.
-3. **Caídas (Ukemi)**: Técnicas para caer de manera segura.
-4. **Golpes (Atemi)**: Técnicas de golpes (si tu escuela de jiu-jitsu las incluye).
-5. **Proyecciones (Nage Waza)**: Técnicas de proyección o derribo.
-6. **Kata (形)**: Secuencias formales de técnicas que representan principios fundamentales del jiu-jitsu.
+###  **Carpetas Principales**
 
-## **tags utilizados**
+1. **Bloqueos (Uke Waza)**  
+   Técnicas de bloqueo o desvío para neutralizar ataques.
+2. **Caídas (Ukemi)**  
+   Técnicas para caer de manera segura y controlar el impacto.
+3. **Formas (Kata)**  
+   Secuencias preestablecidas que condensan principios del arte.
+4. **Fundamentos (Kihon)**  
+   Principios básicos, movimientos esenciales y posturas fundamentales.
+5. **Golpes (Atemi Waza)**  
+   Técnicas de impacto con manos, pies, codos, rodillas, etc.
+6. **Proyecciones (Nage Waza)**  
+   Técnicas para derribar o proyectar al oponente.
+7. **Retenciones (Katame Waza)**  
+   Técnicas de inmovilización para controlar al adversario en el suelo.
+8. **Suelo (Ne Waza)**  
+   Técnicas específicas de lucha en el suelo: controles, escapes, transiciones.
+9. **Técnica Parado (Tachi Waza)**  
+   Técnicas que se ejecutan de pie, incluyendo desplazamientos y entradas.
+10. **Otros**  
+   - **Glosario**: Términos en japonés con su traducción y explicación.  
+   - **imagenes**: Diagramas, fotos o esquemas de técnicas.  
+   - **prompts**: Instrucciones, ideas o guías de estudio asistido por IA.
+
+
+## **Tags utilizados**
 
 los tags ayudan a organizar y conectar las notas. aquí tienes una lista de los principales:
 
@@ -38,10 +56,6 @@ los tags ayudan a organizar y conectar las notas. aquí tienes una lista de los 
 - `#marrón(chairo-obi)`
 - `#negro(kuro-obi)`
 
-### **dificultad (opcional)**
-- `#facil`
-- `#medio`
-- `#dificil`
 
 ---
 

@@ -20,4 +20,4 @@
 
 [[nage waza]]
 
-#blanco #facil
+#blanco

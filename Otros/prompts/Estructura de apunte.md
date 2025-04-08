@@ -65,3 +65,4 @@ Breve explicación de la técnica o concepto.
 
 ```
 
+![[programa_marcial.png]]
