@@ -26,3 +26,7 @@ Es el saludo formal que se hace estando de pie. Se usa al comenzar y terminar la
 ### • **座り礼 (_Za Rei_)** – _Reverencia sentado_
 
 Se realiza desde la posición de _seiza_. Es una forma más solemne de saludo, usada especialmente en ceremonias de apertura y cierre, o al saludar al _kamiza_ (el lugar de honor del dōjō).
+
+
+---
+[[kihon]]

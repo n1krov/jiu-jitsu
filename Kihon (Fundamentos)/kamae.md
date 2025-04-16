@@ -35,3 +35,4 @@ Postura neutral y lista, de pie con el torso relajado, las manos al frente (gene
 Una postura baja y sólida, con las piernas bien abiertas y flexionadas, como si uno montara a caballo. Se utiliza para desarrollar fuerza en las piernas y estabilidad. Las manos pueden mantenerse al costado del cuerpo, cerca del cinturón.
 
 ---
+[[kihon]]

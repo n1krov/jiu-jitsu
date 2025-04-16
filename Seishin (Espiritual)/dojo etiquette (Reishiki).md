@@ -46,4 +46,4 @@ El ritual de inicio y finalización del entrenamiento en el dojo es una parte fu
 
 #dojo #etiqueta #seishin
 
-[[kihon]]
+[[seishin]]

@@ -15,3 +15,8 @@ Para realizar el saludo de pie (**Ritsu Rei**), se parte de la posición **Choku
    - Después de una breve pausa (más o menos una inspiración-expiración), vuelve a la posición erguida.
 
 ![[Pasted image 20250318192826.png]]
+
+
+---
+
+[[seishin]]

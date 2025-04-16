@@ -10,3 +10,6 @@ Combate libre o preestablecido con enfoque técnico.
 - **間合い (Maai)** – Distancia.
 - **タイミング (Taimingu)** – Timing.
 - **気 (Ki)** – Enfoque mental.
+
+---
+[[kihon]]

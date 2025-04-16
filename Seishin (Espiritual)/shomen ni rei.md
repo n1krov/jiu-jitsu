@@ -28,4 +28,4 @@ Después de esto, se suele decir **"Arigatou gozaimashita"** como muestra de agr
 
 ---
 
-[[kihon]]
+[[seishin]]

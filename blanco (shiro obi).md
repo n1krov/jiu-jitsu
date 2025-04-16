@@ -82,9 +82,8 @@ La práctica debe ser constante, suave y consciente. Lo importante no es la cant
 
 ### 📜 Kata – Formas tradicionales
 
-- Shimenawa Torehi
-- Taikyoku
-
+- [[shimenawa torehi]]
+- [[taikyoku]]
 
 > Adicionalmente tambien en este cinto se aprenden las [[ukemi]] y en los demas cintos se perfeccionan.
 

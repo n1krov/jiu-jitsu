@@ -132,3 +132,7 @@ Clasificación general de las técnicas en el arte del Jiu Jitsu.
 - **Kanku Dai** - Kata de la gran visión del vacio.
 - **Enpi** - Kata de las alas de la grulla.
 - **Sochin** - Kata de la firmeza.
+
+
+---
+[[kihon]]

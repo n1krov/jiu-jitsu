@@ -10,3 +10,7 @@ Fundamentos esenciales del Jiu Jitsu Tradicional, incluyendo posturas, caídas y
 
 ## Caídas (受身 Ukemi)
 - Técnicas de caída segura.
+
+
+---
+[[kihon]]

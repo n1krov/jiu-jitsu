@@ -10,3 +10,6 @@ Términos para orientación espacial y laterales.
 - **外 (Soto)** – Externo / exterior.
 - **上 (Ue)** – Arriba.
 - **下 (Shita)** – Abajo.
+
+---
+[[kihon]]

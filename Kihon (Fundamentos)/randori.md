@@ -9,3 +9,6 @@ Desarrollar reacción, adaptación y aplicación dinámica.
 - **流れ (Nagare)** – Fluidez.
 - **反応 (Hannō)** – Reacción.
 - **制御 (Seigyo)** – Control.
+
+---
+[[kihon]]

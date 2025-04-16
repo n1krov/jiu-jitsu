@@ -54,4 +54,4 @@ Para realizar el saludo de rodillas (**Za Rei**), sigue estos pasos:
 
 ---
 
-¡Practica estos saludos con atención y respeto para honrar la tradición del Jiu-Jitsu! 🥋
+[[seishin]]

@@ -98,6 +98,9 @@ El **Nage Waza** es el conjunto de técnicas de lanzamiento y derribo.
 
 ### [[katame waza]]
 
+### [[tachi waza]]
+
+### [[kihon]]
 
 ---
 
