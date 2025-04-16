@@ -64,11 +64,10 @@ La práctica debe ser constante, suave y consciente. Lo importante no es la cant
 
 ### 🔄 Nage Waza – Técnicas de proyección
 
-- O soto gari
-- O uchi gari
-- Ippon seoi nage
-- O goshi
-
+- [[o-soto-gari]]
+- [[o-uchi-gari]]
+- [[ippon-seoi-nage]]
+- [[o-goshi]]
 ### 🤼‍♂️ Tachi Waza – Técnicas de control en pie
 
 - Ikkyo
@@ -85,6 +84,9 @@ La práctica debe ser constante, suave y consciente. Lo importante no es la cant
 
 - Shimenawa Torehi
 - Kata Taikyoku
+
+
+> Adicionalmente tambien en este cinto se aprenden las [[ukemi]] y en los demas cintos se perfeccionan.
 
 ---
 

@@ -23,4 +23,3 @@ Ippon Seoi Nage es una proyección clásica que usa el #hombro y #brazo para lev
 - Cuando baje el centro mirar hacia arriba y luego para donde voy a girar
 
 [[nage waza]]
-#blanco

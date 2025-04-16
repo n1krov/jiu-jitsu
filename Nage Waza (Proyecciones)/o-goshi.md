@@ -19,5 +19,3 @@
 - Mantén el control durante toda la técnica.
 
 [[nage waza]]
-
-#blanco
