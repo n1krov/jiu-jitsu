@@ -48,19 +48,19 @@ La práctica debe ser constante, suave y consciente. Lo importante no es la cant
 
 ### 🥊 Atemi Waza – Técnicas de golpeo
 
-- Oi tsuki
-- Gyaku tsuki
-- Mawashi tsuki
-- Mae tsuki
-- Oi geri
-- Mae geri
+- [[oi tsuki]]
+- [[gyaku tsuki]]
+- [[mawashi tsuki]]
+- [[mae tsuki]]
+- [[oi geri]]
+- [[mae geri]]
 
 ### 🛡️ Uke Waza – Técnicas de defensa (bloqueos)
 
-- Gedan barai
-- Uchi uke
-- Soto uke
-- Age uke
+- [[gedan barai]]
+- [[uchi uke]]
+- [[soto uke]]
+- [[age uke]]
 
 ### 🔄 Nage Waza – Técnicas de proyección
 
@@ -70,20 +70,20 @@ La práctica debe ser constante, suave y consciente. Lo importante no es la cant
 - [[o-goshi]]
 ### 🤼‍♂️ Tachi Waza – Técnicas de control en pie
 
-- Ikkyo
-- Shiho nage
+- [[ikkyo]]
+- [[shiho nage]]
 
 ### 🔒 Katame Waza – Técnicas de control en el suelo
 
-- Hon kesa gatame
-- Mune gatame
-- Tate shiho gatame
-- Kami shiho gatame
+- [[hon-kesa-gatame]]
+- [[mune-gatame]]
+- [[tate-shiho-gatame]]
+- [[kami-shiho-gatame]]
 
 ### 📜 Kata – Formas tradicionales
 
 - Shimenawa Torehi
-- Kata Taikyoku
+- Taikyoku
 
 
 > Adicionalmente tambien en este cinto se aprenden las [[ukemi]] y en los demas cintos se perfeccionan.

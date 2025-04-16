@@ -94,6 +94,11 @@ El **Nage Waza** es el conjunto de técnicas de lanzamiento y derribo.
 ✔ **O Soto Gari** – Barrida exterior mayor. 
 ✔ **Seoi Nage** – Proyección sobre el hombro.
 
+### [[ne waza]]
+
+### [[katame waza]]
+
+
 ---
 
 ## 🏆 **5. Importancia del Jiu-Jitsu en la Actualidad**
