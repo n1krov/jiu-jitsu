@@ -44,6 +44,50 @@ La práctica debe ser constante, suave y consciente. Lo importante no es la cant
 
 ---
 
+## 🧾 Programa Técnico – Cinturón Blanco
+
+### 🥊 Atemi Waza – Técnicas de golpeo
+
+- Oi tsuki
+- Gyaku tsuki
+- Mawashi tsuki
+- Mae tsuki
+- Oi geri
+- Mae geri
+
+### 🛡️ Uke Waza – Técnicas de defensa (bloqueos)
+
+- Gedan barai
+- Uchi uke
+- Soto uke
+- Age uke
+
+### 🔄 Nage Waza – Técnicas de proyección
+
+- O soto gari
+- O uchi gari
+- Ippon seoi nage
+- O goshi
+
+### 🤼‍♂️ Tachi Waza – Técnicas de control en pie
+
+- Ikkyo
+- Shiho nage
+
+### 🔒 Katame Waza – Técnicas de control en el suelo
+
+- Hon kesa gatame
+- Mune gatame
+- Tate shiho gatame
+- Kami shiho gatame
+
+### 📜 Kata – Formas tradicionales
+
+- Shimenawa Torehi
+- Kata Taikyoku
+
+---
+
 ## 🌱 Evolución Interior
 
 Durante este periodo, el estudiante comienza a desarrollar:
@@ -64,3 +108,4 @@ El cinturón blanco no es solo el inicio: **es el más importante**. Contiene to
 
 ## 🗂️ Etiquetas
 
+`#jiujitsu` `#cinturon_blanco` `#principiante` `#espiritualidad_marcial` `#programa_tecnico` `#kata` `#waza`
