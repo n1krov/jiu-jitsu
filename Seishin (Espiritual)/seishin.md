@@ -58,14 +58,12 @@ A través del *Seishin*, se aprende a ver cada reto como una oportunidad de crec
 
 ---
 
-## 🧾 Frases relacionadas con Seishin
-
-| Frase                              | Traducción                               | Significado                             |
-|-------------------------------------|------------------------------------------|-----------------------------------------|
-| **"La mente es más fuerte que el cuerpo."** | "La verdadera fuerza proviene de la mente." | El control mental es clave para el éxito. |
-| **"El guerrero no es fuerte solo en la lucha, sino en la paz interior."** | "La verdadera victoria es sobre uno mismo." | El dominio interno es esencial.        |
-| **"Si caes, levántate. Si fallas, aprende. La mente nunca debe rendirse."** | "La perseverancia es la base del *Seishin*." | La fortaleza mental se forma en la adversidad. |
-| **"El camino es largo, pero cada paso nos acerca a la perfección."** | "La paciencia es la virtud del guerrero." | Cada día de entrenamiento es un paso hacia el crecimiento. |
+| Frase                                                                       | Traducción                                   | Significado                                                |
+| --------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
+| **"La mente es más fuerte que el cuerpo."**                                 | "La verdadera fuerza proviene de la mente."  | El control mental es clave para el éxito.                  |
+| **"El guerrero no es fuerte solo en la lucha, sino en la paz interior."**   | "La verdadera victoria es sobre uno mismo."  | El dominio interno es esencial.                            |
+| **"Si caes, levántate. Si fallas, aprende. La mente nunca debe rendirse."** | "La perseverancia es la base del *Seishin*." | La fortaleza mental se forma en la adversidad.             |
+| **"El camino es largo, pero cada paso nos acerca a la perfección."**        | "La paciencia es la virtud del guerrero."    | Cada día de entrenamiento es un paso hacia el crecimiento. |
 
 ---
 

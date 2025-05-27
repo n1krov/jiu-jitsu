@@ -8,6 +8,11 @@
 
 ---
 
+## Tecnicas Principales
+![[Pasted image 20250527200509.jpg]]
+![[Pasted image 20250527195843.png]]
+---
+
 ## 📖 Descripción general
 
 *Tachi Waza* es el conjunto de técnicas ejecutadas desde una **posición erguida**, generalmente orientadas al **derribo o proyección** del oponente. Estas técnicas son esenciales en disciplinas como el **Jiu-jitsu japonés**, **Judo** y otras artes marciales tradicionales.

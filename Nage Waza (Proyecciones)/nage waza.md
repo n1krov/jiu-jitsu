@@ -28,6 +28,7 @@ Las técnicas de proyección pueden clasificarse según el tipo de acción:
 - **Koshi Waza (腰技)** – Técnicas de cadera.
 - **Ma Sutemi Waza (真捨身技)** – Proyecciones con caída hacia atrás.
 - **Yoko Sutemi Waza (横捨身技)** – Proyecciones con caída lateral.
+- **[[gokyo-no-waza.jpg]]**
 
 ---
 

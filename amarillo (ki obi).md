@@ -29,10 +29,10 @@ En muchas escuelas, obtener el cinturón amarillo indica que el alumno ha aprend
 3. **[[morote uke]]** – Bloqueo doble
 
 ### 🤼‍♂️ Nage Waza – Técnicas de proyección
-1. **[[seoi nage]]** – Proyección sobre hombro
-2. **[[ko soto gari]]** – Barrido menor exterior
-3. **[[ko uchi gari]]** – Barrido menor interior
-4. **[[tai otoshi]]** – Caída del cuerpo
+1. **[[seoi-nage]]** – Proyección sobre hombro
+2. **[[ko-soto-gari]]** – Barrido menor exterior
+3. **[[ko-uchi-gari]]** – Barrido menor interior
+4. **[[tai-otoshi]]** – Caída del cuerpo
 
 ### 🧍 Tachi Waza – Técnicas en posición de pie
 1. **[[nikkyo]]** – Control de muñeca con torsión hacia abajo
@@ -40,7 +40,7 @@ En muchas escuelas, obtener el cinturón amarillo indica que el alumno ha aprend
 3. **[[irimi nage]]** – Proyección con entrada
 
 ### 📏 Kata
-- **[[kata shodan]]** – Primera forma codificada de la escuela
+- **[[shodan]]** – Primera forma codificada de la escuela
 
 
 ---

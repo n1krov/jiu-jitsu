@@ -1,7 +1,7 @@
 
 # 🌀 一教 (*Ikkyo*) – Primera enseñanza
 
-![[ikkyo-inmovilizacion-aikidowaza.webp]]
+![[Pasted image 20250527200709.png]]
 
 ## 🧾 Nombre en japonés
 - **Kanji:** 一教  
