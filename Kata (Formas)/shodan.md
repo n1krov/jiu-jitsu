@@ -1,6 +1,6 @@
 # 📏 Kata Shodan – Primera forma codificada
 
-![[Pasted image 20250527201204.jpg]]
+![[kata-shodan.jpg]]
 
 ## 🧾 Nombre en japonés
 - **Kanji:** 形 初段  

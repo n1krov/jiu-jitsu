@@ -9,8 +9,10 @@
 ---
 
 ## Tecnicas Principales
+
 ![[Pasted image 20250527200509.jpg]]
 ![[Pasted image 20250527195843.png]]
+
 ---
 
 ## 📖 Descripción general
@@ -78,17 +80,6 @@ Este trinomio es esencial en todas las técnicas de *Tachi Waza*.
 - Aikido (confluencias en el *nage waza*)  
 - BJJ (menos frecuente, pero con adaptaciones modernas)  
 
----
-
-## 🧾 Ejemplos de técnicas *Tachi Waza*
-
-| Técnica           | Tipo          | Traducción              |
-|------------------|---------------|--------------------------|
-| *O Soto Gari*     | Ashi Waza     | Gran segado exterior     |
-| *O Uchi Gari*     | Ashi Waza     | Gran segado interior     |
-| *O Goshi*         | Koshi Waza    | Gran proyección de cadera|
-| *Seoi Nage*       | Te Waza       | Proyección por el hombro |
-| *Harai Goshi*     | Koshi Waza    | Barrido de cadera        |
 
 ---
 
