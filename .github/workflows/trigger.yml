@@ -15,5 +15,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.JJ_TOKEN }}
-          repository: n1krov/wikitex
+          repository: n1krov/jj-web
           event-type: trigger-quartz-deploy
