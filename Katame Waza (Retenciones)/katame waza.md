@@ -1,6 +1,8 @@
 
 # 🔒 固め技 (*Katame Waza*) – Técnicas de Control y Retención
 
+![[Pasted image 20251003232113.png]]
+
 ## 🧾 Nombre en japonés
 - **Kanji:** 固め技  
 - **Romaji:** *Katame Waza*  
@@ -11,6 +13,8 @@
 ## 📖 Descripción general
 
 Las **Katame Waza** son técnicas destinadas a **dominar y neutralizar al oponente** mediante **controles en el suelo**, evitando que se mueva o contraataque. Son fundamentales en el trabajo de **ne waza** (combate en suelo), y suelen combinarse con luxaciones (*kansetsu waza*) o estrangulaciones (*shime waza*).
+
+![[Pasted image 20251003232128.png]]
 
 El objetivo de estas técnicas es mantener al oponente **bajo control total**, en una posición desde la cual no pueda escapar fácilmente.
 

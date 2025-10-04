@@ -1,5 +1,6 @@
-
 # 🛡️ 受け技 (*Uke Waza*) – Técnicas de defensa
+
+![[Pasted image 20251003231133.png]]
 
 ## 🧾 Nombre en japonés
 - **Kanji:** 受け技  

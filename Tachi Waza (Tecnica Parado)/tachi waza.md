@@ -1,6 +1,8 @@
 
 # 🥋 立ち技 (*Tachi Waza*) – Técnicas de pie
 
+![[Pasted image 20251003232044.png]]
+
 ## 🧾 Nombre en japonés
 - **Kanji:** 立ち技  
 - **Romaji:** *Tachi Waza*  

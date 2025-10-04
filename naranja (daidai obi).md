@@ -39,39 +39,39 @@ D --> E[Defensas - Uke Waza]
 ### 🔸 Atemi Waza (Técnicas de golpeo)
 
 1. [[uraken]]
-2. [[Shuto Uchi]]
-3. [[Ushiro Geri]]
+2. [[shuto uchi]]
+3. [[ushiro geri]]
 
 ### 🔸 Katame Waza (Técnicas de control en suelo)
 
-1. [[Ude Garami]]
-2. [[Waki Gatame]]
-3. [[Hara Gatame]]
+1. [[ude garami]]
+2. [[waki gatame]]
+3. [[hara gatame]]
 
 ### 🔸 Nage Waza (Proyecciones)
 
-1. [[Koshi Guruma]]
-2. [[Harai Goshi]]
-3. [[Morote Gari]]
+1. [[koshi guruma]]
+2. [[harai goshi]]
+3. [[morote gari]]
 ### 🔸 Tachi Waza (Técnicas de pie)
 
-1. [[Sankyo]]
-2. [[Uchi Kaiten Nage]]
-3. [[Ude Kime Nage]]
+1. [[sankkyo]]
+2. [[uchi kaiten nage]]
+3. [[ude kime nage]]
 
 ### 🔸 Shime Waza (Estrangulaciones)
 
-1. [[Hadaka Jime]]    
-2. [[Kata Juji Jime]]
+1. [[hadaka jime]]    
+2. [[kata juji jime]]
 
 ### 🔸 Uke Waza (Defensas)
 
-1. [[Nagashi Uke]]
-2. [[Juji Uke]]
-3. [[Shuto Uke]]
+1. [[nagashi uke]]
+2. [[juji uke]]
+3. [[shuto uke]]
 ### 🔸 Kata
 
-- [[Nidan]]
+- [[nidan]]
 
 ---
 

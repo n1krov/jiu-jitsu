@@ -64,10 +64,10 @@ La práctica debe ser constante, suave y consciente. Lo importante no es la cant
 
 ### 🔄 Nage Waza – Técnicas de proyección
 
-- [[o-soto-gari]]
-- [[o-uchi-gari]]
-- [[ippon-seoi-nage]]
-- [[o-goshi]]
+- [[o soto gari]]
+- [[o uchi gari]]
+- [[ippon seoi nage]]
+- [[o goshi]]
 ### 🤼‍♂️ Tachi Waza – Técnicas de control en pie
 
 - [[ikkyo]]

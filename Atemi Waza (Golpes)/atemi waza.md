@@ -1,74 +1,111 @@
-# 🥋 当て身技 (*Atemi Waza*) – Técnicas de Golpeo
+# 🥋 当て身技 (_Atemi Waza_) – Técnicas de Golpeo
+
+![[Pasted image 20251003231052.png]]
 
 ## 🧾 Nombre en japonés
+
 - **Kanji:** 当て身技
+
 - **Romaji:** Atemi Waza
-- **Significado literal:** “Técnicas de golpeo al cuerpo”
+
+- **Traducción literal:** “Técnicas de golpeo al cuerpo”
+
 
 ---
 
 ## 📖 Descripción general
 
-**Atemi Waza** son las técnicas de golpeo utilizadas en el Jiu Jitsu tradicional para atacar puntos vitales (*kyusho*) del cuerpo del oponente. Pueden ser utilizadas como ataques principales, para romper la guardia, o como parte de la preparación previa a una proyección (*Nage Waza*) o inmovilización (*Katame Waza*).
+**Atemi Waza** son las técnicas de golpeo utilizadas en el **Jiu-Jitsu tradicional** para atacar puntos vitales (_kyūsho_) del cuerpo.
 
-Aunque en el contexto deportivo muchas veces se enseñan de forma controlada o simbólica, en el arte tradicional se consideran fundamentales para el combate real (*Goshin Jutsu* – defensa personal).
+Se aplican como:
+
+- **Ataques principales.**
+
+- **Ruptura de guardia.**
+
+- **Preparación previa** a una proyección (_[[Nage Waza]]_) o inmovilización (_[[Katame Waza]]_).
+
+
+> [!info] Nota  
+> En el contexto **deportivo** suelen enseñarse de forma **controlada o simbólica**;  
+> en el **arte tradicional** son fundamentales en el _Goshin Jutsu_ (defensa personal real).
 
 ---
 
-## 💥 Tipos de golpes (clasificación)
+## 💥 Tipos de golpes
 
-### 👊 Golpes con el puño
-- **Tate Tsuki (立突き)** – Golpe vertical directo
-- **Uraken (裏拳)** – Reverso del puño
-- **Kagi Tsuki (鉤突き)** – Golpe en gancho
-
-### 🖐️ Golpes con la mano abierta
-- **Shuto Uchi (手刀打ち)** – Golpe de canto de mano
-- **Haito Uchi (背刀打ち)** – Golpe con el lado interior de la mano
-
-### 🦵 Patadas
-- **Mae Geri (前蹴り)** – Patada frontal
-- **Yoko Geri (横蹴り)** – Patada lateral
-- **Mawashi Geri (回し蹴り)** – Patada circular
-- **Ushiro Geri (後ろ蹴り)** – Patada hacia atrás
+```mermaid
+mindmap
+  root((Atemi Waza))
+    PUÑO
+      Tate Tsuki (golpe vertical)
+      Uraken (puño invertido)
+      Kagi Tsuki (gancho)
+    MANO ABIERTA
+      Shuto Uchi (canto de mano)
+      Haito Uchi (lado interior)
+    PIERNAS
+      Mae Geri (frontal)
+      Yoko Geri (lateral)
+      Mawashi Geri (circular)
+      Ushiro Geri (hacia atrás)
+```
 
 ---
 
 ## 🧠 Principios técnicos
 
-- **Velocidad y precisión por sobre la fuerza.**
-- **Atacar puntos vulnerables**: cuello, plexo solar, mentón, ingle, rodillas, entre otros.
-- **Uso táctico**: preparar una luxación, desorientar o frenar al oponente.
+- **Velocidad y precisión** > fuerza bruta.
+
+- **Focalizar en vulnerabilidades**: cuello, plexo, mentón, ingle, rodillas.
+
+- **Uso táctico**: abrir espacio, desorientar o preparar una luxación.
+
+
+> [!tip] Clave técnica  
+> Un **atemi bien colocado** puede definir el combate en un instante, incluso sin potencia excesiva.
 
 ---
 
 ## 🧘 Dimensión espiritual
 
-En la vía del Budō, los golpes no deben usarse con intención destructiva sino con **disciplina, autocontrol y respeto por la vida**. El dominio del Atemi Waza enseña no solo a golpear, sino a **medir la energía interior (Ki)** y canalizarla correctamente.
+El _Budō_ enseña que los golpes deben usarse con:
 
+- **Disciplina**
+
+- **Autocontrol**
+
+- **Respeto por la vida**
+
+
+> [!quote] Filosofía  
 > “Golpear sin odio, defender sin violencia: ese es el verdadero espíritu del guerrero.”
 
 ---
 
 ## 📚 Uso en el entrenamiento
 
-- Se practica con control, en formas (kata) o contra un compañero.
-- En niveles avanzados, se incorporan a secuencias defensivas reales.
-- En algunos estilos tradicionales, los Atemi determinan el ritmo de la defensa o contraataque.
+- Práctica con **control y kata**.
+
+- En grados avanzados → integración en secuencias de defensa real.
+
+- En algunas _koryū_ (escuelas antiguas), los **atemi marcan el inicio del combate**.
 
 ---
 
 ## 🗂 Clasificación
 
-- **Tipo:** Waza (técnica)
-- **Familia:** Atemi Waza
-- **Aplicación:** Ataque directo, distracción, preparación para proyecciones o controles
+|Categoría|Valor|
+|---|---|
+|**Tipo**|Waza (técnica)|
+|**Familia**|Atemi Waza|
+|**Aplicación**|Ataque directo, distracción, preparación para [[Nage Waza]] o [[Katame Waza]]|
 
 ---
 
 ## 📌 Notas adicionales
 
-- Aunque se consideren “simples”, dominar Atemi Waza exige precisión, sensibilidad y timing.
-- En muchos estilos clásicos (Koryu), el combate se inicia con un atemi sutil o contundente.
+- Atemi Waza no son “golpes simples”: requieren **timing, sensibilidad y exactitud**.
 
----
+- En estilos tradicionales, un **atemi preciso** suele preceder la técnica definitiva.
+

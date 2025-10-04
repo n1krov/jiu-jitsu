@@ -1,9 +1,15 @@
 
-# 🌀 投げ技 (*Nage Waza*) – Técnicas de Proyección
+#  投げ技 (*Nage Waza*) – Técnicas de Proyección
+
+![[Pasted image 20251003231850.png]]
 
 ## 📖 Definición
 
-**Nage Waza** (投げ技) se traduce como *técnicas de lanzamiento* o *de proyección*. Son maniobras utilizadas para desequilibrar, levantar y proyectar al oponente al suelo, utilizando su propio impulso, desequilibrio o fuerza en contra.
+**Nage Waza** (投げ技) se traduce como *técnicas de lanzamiento* o *de proyección*. Son maniobras utilizadas para desequilibrar, levantar y proyectar al oponente al suelo, 
+utilizando su propio impulso, desequilibrio o fuerza en contra.
+
+![[Pasted image 20251003231910.png]]
+
 
 ---
 
