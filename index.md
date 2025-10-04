@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 **1. Introducción**
+## **1. Introducción**
 
 El **Jiu-Jitsu** (柔術, _"Arte Suave"_) es una disciplina marcial que combina la **ciencia del movimiento, el apalancamiento y la estrategia** para someter a un oponente sin depender de la fuerza bruta.
 
@@ -93,7 +93,7 @@ En la actualidad, el Jiu-Jitsu se practica en todo el mundo como:
 
 ---
 
-## 🥋 **3. Nuestro Estilo (Dojo)**
+## **3. Nuestro Estilo (Dojo)**
 
 **Escuela:** _Yoshin Ryū_ (心柳流 – _Corazón de Sauce_)
 
@@ -115,7 +115,7 @@ En la actualidad, el Jiu-Jitsu se practica en todo el mundo como:
     - **Efectivo**
     
 
-### 🎌 **Sistema de Cinturones en el Dojo**
+### **Sistema de Cinturones en el Dojo**
 
 - [[blanco (shiro obi)]] 
 	- ***PUREZA***
@@ -143,7 +143,7 @@ En la actualidad, el Jiu-Jitsu se practica en todo el mundo como:
 
 ---
 
-## 🏰 **4. Principios Fundamentales**
+## **4. Principios Fundamentales**
 
 ✔️ **Uso de la energía del oponente** – Redirigir en vez de oponerse.  
 ✔️ **Apalancamiento y biomecánica** – Maximizar eficacia con mínimo esfuerzo.  
