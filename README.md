@@ -1,6 +1,6 @@
 # Jiu-Jitsu
 
-![Banner](https://raw.githubusercontent.com/Z0SO/jiu-jitsu/refs/heads/master/Sonohoka%20(Otros)/Gaz%C5%8D%20(Imagenes)/47ee6e0f0d950df04e692a4362860f4c.webp)
+![[Pasted image 20251003221747.png]]
 
 Bienvenido a mi repositorio **Jiu-Jitsu**. Este proyecto es una colección organizada de apuntes, técnicas, conceptos y reflexiones sobre mi entrenamiento en jiu-jitsu. Utilizo [Obsidian](https://obsidian.md/) para crear un sistema de notas interconectadas que funciona como una extensión de mi mente y un manual personal de referencia.
 

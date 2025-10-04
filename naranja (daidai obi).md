@@ -78,11 +78,11 @@ D --> E[Defensas - Uke Waza]
 ## 5. **Objetivos principales**
 
 - Consolidar los **fundamentos del control** sobre el oponente.
-    
+
 - Aprender a combinar **golpes, proyecciones y controles** en secuencia fluida.
-    
+
 - Desarrollar **precisión y timing** en la ejecución de técnicas.
-    
+
 - Comprender el **valor del control sin destrucción**, reforzando la filosofía de defensa personal.
 
 

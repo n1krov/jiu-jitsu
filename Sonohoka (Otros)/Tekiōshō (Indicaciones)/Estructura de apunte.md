@@ -1,6 +1,6 @@
 
 ```markdown
-Por favor, crea una estructura de apuntes en el mismo estilo que el siguiente, adaptado para el tema de [tema que elijas]. La estructura debe contener:
+Por favor, crea una estructura de apuntes de jujitsu tradicional en el mismo estilo que el siguiente. La estructura debe contener:
 
 1. **Nombre en japonés**
     
@@ -25,6 +25,10 @@ Por favor, crea una estructura de apuntes en el mismo estilo que el siguiente, a
 8. **Técnicas relacionadas**: Tabla con ejemplos de técnicas relacionadas, su traducción y la relación entre ellas."
     
 
+- conserva las imagenes con sus respectivos nombres si tiene.
+- usa todos las herramientas de obsidian markdown que este a tu alcance para que se vea bonito
+
+- El tema del que quiero que hables es -> 
 ```
 
 ```markdown
