@@ -117,19 +117,29 @@ En la actualidad, el Jiu-Jitsu se practica en todo el mundo como:
 
 ### 🎌 **Sistema de Cinturones en el Dojo**
 
-- [[blanco (shiro obi)]]
+- [[blanco (shiro obi)]] 
+	- ***PUREZA***
 
-- [[amarillo (ki obi)]]
+- [[amarillo (ki obi)]] 
+	- ***DESCUBRIMIENTO***
 
-- [[naranja (daidai obi)]]
+- [[naranja (daidai obi)]] 
+	- ***ILUSIÓN/AMOR***
 
-- [[verde (midori obi)]]
+- [[verde (midori obi)]] 
+	- ***ESPERANZA/FE***
 
-- [[azul (ao obi)]]
+- [[azul (ao obi)]] 
+	- ***IDEALISMO***
 
-- [[marrón (chairo obi)]]
+- [[lila (murasaki obi)]] 
+	- ***PERSEVERANCIA***
 
-- [[negro (kuro obi)]]    
+- [[marrón (chairo obi)]] 
+	- ***CONOCIMIENTO***
+
+- [[negro (kuro obi)]] 
+	- ***MAESTRIA/RESPONSABILIDAD***
 
 ---
 
